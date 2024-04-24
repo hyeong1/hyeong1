@@ -1,5 +1,7 @@
 ### hyeong1 🌱
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=minh14)](https://solved.ac/minh14/)
+
 <!--
 **hyeong1/hyeong1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
