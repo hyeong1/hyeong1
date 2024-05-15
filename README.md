@@ -1,5 +1,4 @@
 ### hyeong1 🌱
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=minh14)](https://solved.ac/minh14/)
 
 <h3>✨ Tech Stack ✨</h3>
 <div>
