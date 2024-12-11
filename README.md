@@ -1,5 +1,6 @@
 # hyeong1 🌱
 
+<!--
 <h3>✨ Tech Stack ✨</h3>
 <div>
   <img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
@@ -17,7 +18,7 @@
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </div>
-
+-->
 <br>
 
 ![Hyeong1's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeong1&show_icons=true&theme=radical)
